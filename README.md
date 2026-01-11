@@ -22,4 +22,4 @@ customtkinter
 
 math (standard library)
 
-Developed by Savvas
+Developed by Savast29
