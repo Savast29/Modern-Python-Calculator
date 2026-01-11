@@ -15,8 +15,9 @@ A modern, high-performance scientific calculator built with Python and CustomTki
    pip install -r requirements.txt
    
     Usage
-Bash
+    Bash
 python calculator.py
+
 📦 Requirements
 customtkinter
 
